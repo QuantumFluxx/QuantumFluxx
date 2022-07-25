@@ -23,7 +23,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I complete projects and take courses.
 
-- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/rodikov-alexander/) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)
+- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)
 
 [![codewars](https://www.codewars.com/users/QuantumFluxx/badges/large)](https://www.codewars.com/users/QuantumFluxx) 
 -----------
