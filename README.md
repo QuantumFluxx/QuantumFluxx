@@ -15,7 +15,12 @@
 </div>
 
 -------------------
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. Originally from Sochi 🌴.
+
+<p>
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="515" />
+   I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. 
+
+Originally from Sochi 🌴.
 
 - :telescope: Love working with data.
 
@@ -23,17 +28,22 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: In my free time, I complete projects and take courses.
 
-- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)
+- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
+</p>
 
 [![codewars](https://www.codewars.com/users/QuantumFluxx/badges/large)](https://www.codewars.com/users/QuantumFluxx) 
+
+
 -----------
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="React" width="40" height="40"/>&nbsp;
