@@ -17,7 +17,7 @@
 -------------------
 
 <p>
-    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="450" />
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="400" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. 
 
 Originally from Sochi 🌴.
