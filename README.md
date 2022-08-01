@@ -61,4 +61,4 @@ Originally from Sochi 🌴.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumFluxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumFluxx&layout=compact&exclude_repo=karpov_courses)](https://github.com/anuraghazra/github-readme-stats)
