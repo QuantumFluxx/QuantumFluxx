@@ -59,6 +59,8 @@ Originally from Sochi 🌴.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&locale=en&layout=compact" alt="lang" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&locale=en" alt="stats" width="410" /></p>
+<br><br><br><br><br><br><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumFluxx&layout=compact&exclude_repo=karpov_courses,pet_projects)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src=https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx alt="stats" />
