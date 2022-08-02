@@ -59,7 +59,7 @@ Originally from Sochi 🌴.
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&locale=en&layout=compact&langs_count=8&exclude_repo=karpov_courses,pet_projects" alt="lang" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects" alt="lang" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&locale=en" alt="stats" width="410" /></p>
 <br><br><br><br><br><br><br><br>
 
