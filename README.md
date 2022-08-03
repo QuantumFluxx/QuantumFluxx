@@ -17,7 +17,7 @@
 -------------------
 
 <p>
-    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="370" />
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="500" height="250" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. 
 
 Originally from Sochi 🌴.
@@ -27,6 +27,8 @@ Originally from Sochi 🌴.
 - :seedling: I like to learn new things and do self-study.
 
 - :zap: In my free time, I complete projects and take courses.
+  
+- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards.
 
 - :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
 </p>
@@ -36,7 +38,7 @@ Originally from Sochi 🌴.
 
 -----------
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -57,9 +59,19 @@ Originally from Sochi 🌴.
 
 -------------
 
-### :fire: My Stats :
+### :fire: My Stats:
 
-| <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&hide_border=true&include_all_commits=true&theme=flag-india" /></a> |
+| <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx&hide_border=true" alt="stats" /></a></a> |
 | ------------- | ------------- |
 
-<p align="center"><img src=https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx alt="stats" />
+
+### :trophy: Other stats:
+
+<details>
+  <summary><b>Click to view</b></summary>
+
+| <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&hide_border=true&include_all_commits=true&theme=flag-india" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=QuantumFluxx&theme=flat&row=2&column=3&margin-w=11.47&margin-h=11.47" /></a> |
+| ------------- | ------------- |
+
+</details>
+  
