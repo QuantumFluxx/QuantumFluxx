@@ -59,8 +59,7 @@ Originally from Sochi 🌴.
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&locale=en&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects" alt="lang" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&locale=en" alt="stats" width="410" /></p>
-<br><br><br><br><br><br><br><br>
+| <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuantumFluxx&show_icons=true&layout=compact&langs_count=8&hide=jupyter%20notebook&exclude_repo=DataCamp_projects&hide_border=true&theme=flag-india" alt="stats" /></a> | <a href="https://github.com/QuantumFluxx/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QuantumFluxx&show_icons=true&hide_border=true&include_all_commits=true&theme=flag-india" /></a> |
+| ------------- | ------------- |
 
 <p align="center"><img src=https://github-readme-streak-stats.herokuapp.com/?user=QuantumFluxx alt="stats" />
