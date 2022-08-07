@@ -10,9 +10,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
+    
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=QuantumFluxx&style=flat-square&color=blue" alt=""/>
+<a href="https://youtu.be/dQw4w9WgXcQ?t=43">
+    <img src="https://img.shields.io/badge/Secret button-red?style=flat&logo=Wikiquote&logoColor=white" alt="WhatsApp"/>
+  </a>
 </div>
+    
 
 -------------------
 
@@ -28,7 +33,7 @@ Originally from Sochi 🌴.
 
 - :zap: In my free time, I complete projects and take courses.
   
-- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards.
+- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Github Badge](https://img.shields.io/badge/certificates-black?style=flat&logo=Github&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
 
 - :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
 </p>
@@ -42,19 +47,21 @@ Originally from Sochi 🌴.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
 </div>
 
 -------------
