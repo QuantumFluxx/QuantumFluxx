@@ -33,13 +33,10 @@ Originally from Sochi 🌴.
 
 - :zap: In my free time, I complete projects and take courses.
   
-- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Github Badge](https://img.shields.io/badge/certificates-black?style=flat&logo=Github&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
+- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Github Badge](https://img.shields.io/badge/certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
 
 - :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
 </p>
-
-[![codewars](https://www.codewars.com/users/QuantumFluxx/badges/large)](https://www.codewars.com/users/QuantumFluxx) 
-
 
 -----------
 
