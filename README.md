@@ -1,28 +1,12 @@
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rodikov-alexander/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/alexander_rodikov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
-  <a href="https://vk.com/hardcore.one.love">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  <a href="https://wa.me/89189066500">
-    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-    
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=QuantumFluxx&style=flat-square&color=blue" alt=""/>
 <a href="https://youtu.be/dQw4w9WgXcQ?t=43">
     <img src="https://img.shields.io/badge/Secret button-red?style=flat&logo=Wikiquote&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
-    
-
--------------------
 
 <p>
-    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="265" />
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="255" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. 
 
 Originally from Sochi 🌴.
@@ -33,11 +17,13 @@ Originally from Sochi 🌴.
 
 - :zap: In my free time, I complete projects and take courses.
   
-- :coffee: My [![Tableau Badge](https://img.shields.io/badge/Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Github Badge](https://img.shields.io/badge/certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
+- :coffee: My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
 
 - :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
 </p>
 
+- :iphone: My socials: [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/), [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/hardcore.one.love), [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodikov-alexander/), [![Steam Badge](https://img.shields.io/badge/-Steam-blue?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/IHeartHC/)
+    
 -----------
 
 ### :hammer_and_wrench: Languages and Tools:
