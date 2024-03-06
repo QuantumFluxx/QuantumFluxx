@@ -13,15 +13,7 @@
 
 Originally from Sochi 🌴
 
-- :telescope: Love working with data.
-
-- :seedling: I like to learn new things and do self-study.
-
-- :zap: In my free time, I complete projects and take courses.
-  
-- :coffee: My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
-
-- :mailbox:How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/89189066500) or [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
+- :mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/)</a>.
 </p>
 
 - :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexander_rodikov/), [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodikov-alexander/), [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVxJrDFsBSHPXpKnHNccQQmjhXHsPlXvkTmlJBzTcFpMQBhLrMSNjXPHkJTqNfcNhxsWg)
