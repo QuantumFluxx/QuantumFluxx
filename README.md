@@ -8,7 +8,7 @@
 ----------------
 
 <p>
-    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="300" />
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="330" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Krasnodar. 
 
 Originally from Sochi 🌴
@@ -39,7 +39,7 @@ Originally from Sochi 🌴
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="DBeaver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 -------------
